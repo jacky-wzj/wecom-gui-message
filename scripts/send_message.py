@@ -8,7 +8,7 @@ v3.0 改进（2026-04-24 测试验证）：
 
 用法:
   python3 scripts/send_message.py "联系人或群名" "消息内容"
-  python3 scripts/send_message.py "杨杨杨" "今日AI资讯" --wait-login
+  python3 scripts/send_message.py "XXX" "今日AI资讯" --wait-login
 
 Exit codes: 0=成功, 1=失败, 2=需要登录（仅非 --wait-login 模式）
 """
