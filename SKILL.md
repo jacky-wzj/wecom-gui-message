@@ -18,7 +18,7 @@ description: 通过 macOS GUI 自动化给企业微信（WeCom）联系人或群
 
 ```bash
 python3 scripts/send_message.py "联系人或群名" "消息内容"
-python3 scripts/send_message.py "杨杨杨" "今日AI日报\nhttps://example.com" --wait-login
+python3 scripts/send_message.py "XXX" "今日AI日报\nhttps://example.com" --wait-login
 ```
 
 | 参数 | 说明 |
